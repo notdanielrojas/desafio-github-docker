@@ -1,0 +1,16 @@
+{
+  "name": "desafio_github_docker",
+  "version": "1.0.0",
+  "description": "Proyecto básico de Node.js para CI/CD",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
